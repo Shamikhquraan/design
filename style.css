@@ -1,0 +1,42 @@
+body{
+
+  background-color:black; 
+  color : white ;
+}
+
+h2{
+  color : #cd853f ;}
+ 
+ header nav{
+  float: right;
+}
+header nav ul li {
+  display: inline-block;
+}
+header nav {
+  margin-top: 0;
+}
+header nav ul li a{
+ text-decoration: none;
+}
+header {
+ height: 350px ;
+}
+
+.imgContainer{
+  display: inline-block;
+margin-left: 40px;
+}
+
+h4{
+background-color: gray;
+  color : red ; 
+}
+footer{
+  background-color:gray;
+}
+
+h3{
+
+  color : #cd853f ;
+}
